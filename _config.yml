@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Anna Hankinson
+name: aehank
 url: https://aehank.github.io/
 description: A fantastic blog that is fantastic.
 twitter: anna.hankinson
